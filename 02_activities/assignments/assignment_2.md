@@ -13,6 +13,7 @@
     https://public.tableau.com/app/profile/tam.s.varga/viz/common_misconceptions/CommonMythConceptions
     
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+
        The "Common Mythconceptions" visualization by Tamás Varga is an example of a bad visualization. I come to this conclusion by considering and assessing the aesthetic, substantive, and perceptual qualities of the graph.
         
         First, while it is not displeasing to look at, the visualization is also not particularly interesting. Neither does it grab attention by using distinctive design or color choices. 
@@ -25,6 +26,7 @@
 
 
     - How could this data visualization have been improved?  
+      
       Comparisons between categories needs to be easier, and transparency about the data needs to be improved.
 
       First, I suggest applying color-coding to different subjects so that audiences can observe the category of a data point at a single glance.  
@@ -39,21 +41,22 @@
     https://100.datavizproject.com/data-type/viz3/
     
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-    The lollipop chart from the 100 visualizations project, based on a dataset comparing the numbers of UNESCO World Heritage Sites in Scandinavia from 2004 to 2022, is an example of a good visualization. 
-    
-    First, in terms of aesthetic quality, the visualization is simple and clean. The use of muted colors representing different countries is not overwhelming. More importantly, the paired color scheme (light and darker variations of the same color for the same country) improves readability and makes it easy to intuit when two numbers/bars represent data from the same country.
-    
-    Second, in terms of perceptual quality, the visualization offers various points of comparison. It conveys a message of overall increase, shows us clearly that across the three countries of interest, the number of world heritage sites have gone up between 2004 and 2022. Besides reflecting the increase in the heights of the lollipops, the visualization provides numbers for those who want more detail, and also converts these numbers into percentage format, which communicates the relative increase, making for a fairer comparison.
-
-    Thirdly, the visualization offers an accurate and honest representation of data by directly providing all the different numbers in a clear way. It also does this in an objective way, since these numbers enable different perspectives. Viewers are free to draw their own conclusions. For example, we can focus on the 150% increase in heritage sites within Denmark, which is a remarkable change. Or we can recognize that Sweden remains the country in Scandinavia with the highest number of sites. The chart also enables us to note that Denmark has overtaken Norway in number of sites. Because the chart provides all these numbers, it is a (relatively) unbiased representation of the facts.
+     
+     The lollipop chart from the 100 visualizations project, based on a dataset comparing the numbers of UNESCO World Heritage Sites in Scandinavia from 2004 to 2022, is an example of a good visualization. 
+     
+     First, in terms of aesthetic quality, the visualization is simple and clean. The use of muted colors representing different countries is not overwhelming. More importantly, the paired color scheme (light and darker variations of the same color for the same country) improves readability and makes it easy to intuit when two numbers/bars represent data from the same country.
+     
+     Second, in terms of perceptual quality, the visualization offers various points of comparison. It conveys a message of overall increase, shows us clearly that across the three countries of interest, the number of world heritage sites have gone up between 2004 and 2022. Besides reflecting the increase in the heights of the lollipops, the visualization provides numbers for those who want more detail, and also converts these numbers into percentage format, which communicates the relative increase, making for a fairer comparison.
+     
+     Thirdly, the visualization offers an accurate and honest representation of data by directly providing all the different numbers in a clear way. It also does this in an objective way, since these numbers enable different perspectives. Viewers are free to draw their own conclusions. For example, we can focus on the 150% increase in heritage sites within Denmark, which is a remarkable change. Or we can recognize that Sweden remains the country in Scandinavia with the highest number of sites. The chart also enables us to note that Denmark has overtaken Norway in number of sites. Because the chart provides all these numbers, it is a (relatively) unbiased representation of the facts.
 
 
 
     - How could this data visualization have been improved?  
 
-    The main issue in this chart is that the information and context must be gleaned from other places on the website. I suggest providing a clear and simple title that communicates what the numbers refer to (e.g. "World Heritage Sites in Scandinavia"). Furthermore, even though it is easy to surmise that '04 and '22 refer to years, a clearer label for the axis would remove ambiguity and reduce any potential for misunderstanding.
-
-    In general, however, this chart is already quite effective and clear. A further improvement would involve providing global context to aid viewers in understanding where Scandinavia stands in terms of its number of world heritage sites. For this purpose, I suggest providing a global average as a meaningful reference point. However, it could alter the message of the chart by introducing a comparison that is not currently present. It would also extend the visualization beyond the scope of the current dataset.
+     The main issue in this chart is that the information and context must be gleaned from other places on the website. I suggest providing a clear and simple title that communicates what the numbers refer to (e.g. "World Heritage Sites in Scandinavia"). Furthermore, even though it is easy to surmise that '04 and '22 refer to years, a clearer label for the axis would remove ambiguity and reduce any potential for misunderstanding.
+     
+     In general, however, this chart is already quite effective and clear. A further improvement would involve providing global context to aid viewers in understanding where Scandinavia stands in terms of its number of world heritage sites. For this purpose, I suggest providing a global average as a meaningful reference point. However, it could alter the message of the chart by introducing a comparison that is not currently present. It would also extend the visualization beyond the scope of the current dataset.
     
       
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
