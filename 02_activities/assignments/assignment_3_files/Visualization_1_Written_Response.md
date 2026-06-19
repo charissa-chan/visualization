@@ -1,6 +1,9 @@
 # Visualization 1 Written Response
 
-This visualization, titled "Deaths of Toronto Shelter Residents (2010-2025)" was created using the "Deaths of Shelter Residents" dataset on the City of Toronto's OpenData portal. The dataset provides information on the number of shelter resident deaths from 2007-2026, and data collection is ongoing. Deaths are counted by month, and broken down by gender.
+This visualization, titled "Deaths of Toronto Shelter Residents (2010-2025)" was created using the "Deaths of Shelter Residents" dataset on the City of Toronto's OpenData portal. The dataset provides information on the number of shelter resident deaths from 2007-2026, and data collection is ongoing. Deaths are counted by month, and broken down by gender. 
+
+Dataset used: Deaths of Shelter Residents
+https://open.toronto.ca/dataset/deaths-of-shelter-residents/
 
 ### Software Used
 To create this chart, I used Python with the Pandas and Matplotlib libraries. I used pandas dataframes to structure and organize the data and to prepare it for charting. Matplotlib enabled me to plot the visualizations.
